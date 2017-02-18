@@ -1,4 +1,5 @@
-# Python_Session1
+# Python_Session
+
 All the code for our Python Session
 
 Session Date 11th Feb 2017
@@ -13,3 +14,10 @@ if.py                                         #basic if statement
 if_elif.py                                    #basic if else if statement
 if_elif_else.py                               #basic if else if else statement
 session1.py                                   #skynet
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+Session date 25th Feb 2017
+
+dice.py                                       #Using some of the thing we learnt to make a dice game 
